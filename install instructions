@@ -1,0 +1,23 @@
+		
+		Ecommerce webiste
+
+		*start your xampp server 
+		*db name - online_shopping_cloths
+		*folder name - online_shopping_new
+
+		run this url in chrome : http://localhost/online_shopping_new/
+
+		admin login - 
+		username: admin
+		email_id : admin@gmail.com
+		password : user@1234
+
+		seller login - 
+		username: seller
+		email_id : seller@gmail.com
+		password : user@1234
+
+		customer login - 
+		username: customer
+		email_id : customer@gmail.com
+		password : user@1234
