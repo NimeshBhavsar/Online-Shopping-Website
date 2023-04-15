@@ -1,3 +1,30 @@
+Online Shopping Website
+This is a simple online shopping website built using HTML, CSS, JavaScript, and PHP. The website allows users to browse and purchase products online. It includes a shopping cart feature, user registration and login, and a checkout process. The project also includes a database schema for storing product and user information.
+
+Features
+User registration and login
+Browsing and searching products
+Adding products to the cart
+Updating and removing items from the cart
+Checkout process with payment integration
+Admin panel for managing products and orders
+Getting Started
+To run the website, you'll need to have a web server and a database installed on your computer or a hosting provider. You can use Apache as a web server and MySQL as a database.
+
+Clone the repository to your web server root directory.
+Import the database schema from the database directory into your MySQL database.
+Update the config.php file in the includes directory with your database credentials.
+Navigate to http://localhost/Online-Shopping-Website in your web browser to access the website.
+Contributions
+Contributions to the project are welcome! Feel free to fork the repository and submit pull requests for bug fixes or new features. Please make sure to follow the code style and submit unit tests for your changes.
+
+License
+This project is licensed under the MIT License. Feel free to use and modify the code for personal or commercial purposes. See the LICENSE file for more details.
+
+Acknowledgements
+This project was inspired by various online shopping websites and e-commerce platforms. Thanks to the developers and contributors of the open-source libraries and frameworks used in this project, including Bootstrap, jQuery, and PHPMailer.
+
+
 Ecommerce webiste
 
 		*start your xampp server 
